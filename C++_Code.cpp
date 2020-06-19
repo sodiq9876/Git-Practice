@@ -3,7 +3,8 @@ include <iostream>
 
 int main(){
 
-std::cout<<"Howdy Stranger << std::endl;
+std::cout<<"Howdy Stranger" << std::endl;
+
 
 return 0;
 }
